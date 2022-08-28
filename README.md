@@ -16,6 +16,7 @@ Its useful for simple calculations.
 * LOVE
 * HTML
 * CSS
+* JavaScript
 * C#
 * ASP.NET CORE
 
